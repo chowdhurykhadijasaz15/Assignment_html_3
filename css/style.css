@@ -1,0 +1,50 @@
+.wrapper1{
+	min-height: 70px;
+	background-color:lime;
+	}
+#id1{
+	text-align: center;
+}
+#id2{
+	text-align: right;
+}
+.wrapper{
+	overflow: hidden;
+	background-color:white;
+
+}
+
+.blog{
+	width:70%;
+	min-height:150px;
+	float: left;
+	background-color:gold;
+}
+.awards{
+	width: 30%;
+	min-height:150px;
+	float: right;
+	background-color:salmon;
+}
+.youtube{
+	display: inline-block;
+	padding:30px;
+	margin: 20px;
+	color: green;
+}
+.map{
+	display: inline-block;
+	padding:30px;
+	margin: 20px;
+	color: red;
+}
+.footer{
+	display: inline-block
+	padding:30px;
+	margin: 20px;
+	
+	
+}
+.button{
+	color: tomato;
+}
